@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vivamais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fef72810d4b14ad00004794dfffc2a90276dbdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vivamais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vivamais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
